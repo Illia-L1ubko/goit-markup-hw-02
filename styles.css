@@ -1,0 +1,61 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.footer-style {
+  color: #fff;
+  background-color: #434455;
+}
+
+.portfolio {
+  background-color: #fff;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.adventages {
+  background-color: #fff;
+}
+
+.greetings {
+  background-color: #434455;
+}
+.order-service-button {
+  color: #fff;
+  background-color: #4d5ae5;
+}
+
+.order-service-button:hover {
+  background-color: #404bbf;
+}
+
+.main-navigation {
+  color: #4d5ae5;
+}
+
+.nav-menu {
+  color: #434455;
+}
+
+.nav-menu:hover {
+  color: #4d5ae5;
+}
+.footer-style > a {
+  color: #fff;
+}
+
+.destination {
+  color: #434455;
+}
