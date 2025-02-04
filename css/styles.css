@@ -29,3 +29,127 @@ a {
   text-transform: uppercase;
   color: #2e2f42;
 }
+
+/*section one settings*/
+
+.section-one {
+  background-color: #2e2f42;
+}
+
+.main-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+/*main button settings*/
+
+.main-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+.main-button:hover {
+  background-color: #404bbf;
+}
+
+.main-button:focus {
+  background-color: #404bbf;
+}
+
+/*section two settings*/
+
+.section-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.section-paragraph {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/*section three settings*/
+
+.section-three {
+  background-color: #f4f4fd;
+}
+
+.section-title-our-team {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.section-three-card-one {
+  background-color: #ffffff;
+}
+
+.section-three-title-one {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.section-three-paragraph-one {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/*section four settings*/
+
+.section-four-title-one {
+  font-size: 36px;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.section-four-title-two {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.section-four-paragraph-two {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/*footer settings*/
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-paragraph {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
