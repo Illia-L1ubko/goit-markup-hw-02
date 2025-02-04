@@ -29,10 +29,11 @@ img {
   display: block;
 }
 /*general styles*/
-.section {
+.section-info,
+.section-main {
   padding: 120px 0;
 }
-.container {
+.container-ourbox {
   max-width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
@@ -63,11 +64,11 @@ img {
   gap: 40px;
 }
 
-.logo-head {
+.logo-header {
   padding: 24px 0;
   margin-right: 76px;
 }
-.logo {
+.logo-footer {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -104,7 +105,7 @@ img {
 .contacts-menu-m:focus {
   color: #404bbf;
 }
-.contacts {
+.ul-contacts-menu {
   font-style: normal;
 }
 .contacts-menu-m {
